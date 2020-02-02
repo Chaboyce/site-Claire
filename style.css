@@ -1,0 +1,35 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap');
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+
+/* Importing all components file */
+@import url("components/container.css");
+@import url("components/footpage.css");
+@import url("components/navbar.css");
+
+
+
+
+body {
+    background: white;
+    color: #003b4c;
+    font-family: 'Lora', serif;
+    font-size: 17px;
+    font-weight: lighter;
+}
+h1 {
+  font-size: 32px;
+  font-weight: 900;
+  font-family: 'Avenir light';
+}
+
+h1, h2, h3 {
+ font-family: 'Nanum Gothic', sans-serif;
+}
+
+a {
+  color: #A6D1FB;
+}
